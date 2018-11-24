@@ -30,9 +30,7 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
   }
  });
 
-client.on('ready', () => {
-  client.user.setGame(`سكوتي ليس علامة خوفي بل الاسد مايرد عالكلاب`,'https://www.twitch.tv/By:A7MD');
-});
+
 
 
 
